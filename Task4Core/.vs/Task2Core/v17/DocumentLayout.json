@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task4Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|c:\\users\\orange\\desktop\\core\\apicore\\task4core\\task2core\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|solutionrelative:task2core\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|c:\\users\\orange\\desktop\\core\\apicore\\task4core\\task2core\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|solutionrelative:task2core\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|c:\\users\\orange\\desktop\\core\\apicore\\task4core\\task2core\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|solutionrelative:task2core\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task4Core\\Task2Core\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Task2Core\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task4Core\\Task2Core\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Task2Core\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAgwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:39:10.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task4Core\\Task2Core\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Task2Core\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task4Core\\Task2Core\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Task2Core\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAIcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:38:02.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task4Core\\Task2Core\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Task2Core\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task4Core\\Task2Core\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Task2Core\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:37:42.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
