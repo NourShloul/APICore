@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task3Core\\Task2Core\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task6\u002B7Core\\Task2Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|c:\\users\\orange\\desktop\\core\\apicore\\task3core\\task2core\\task2core\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|c:\\users\\orange\\desktop\\core\\apicore\\task6\u002B7core\\task2core\\task2core\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|solutionrelative:task2core\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|c:\\users\\orange\\desktop\\core\\apicore\\task3core\\task2core\\task2core\\dtofolder\\cartqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|c:\\users\\orange\\desktop\\core\\apicore\\task6\u002B7core\\task2core\\task2core\\dtofolder\\cartqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|solutionrelative:task2core\\dtofolder\\cartqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|c:\\users\\orange\\desktop\\core\\apicore\\task3core\\task2core\\task2core\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|c:\\users\\orange\\desktop\\core\\apicore\\task6\u002B7core\\task2core\\task2core\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19E5710F-AA5B-49E1-B18B-93CE21A4C181}|Task2Core\\Task2Core.csproj|solutionrelative:task2core\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CartItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task3Core\\Task2Core\\Task2Core\\Controllers\\CartItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task6\u002B7Core\\Task2Core\\Task2Core\\Controllers\\CartItemsController.cs",
               "RelativeDocumentMoniker": "Task2Core\\Controllers\\CartItemsController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task3Core\\Task2Core\\Task2Core\\Controllers\\CartItemsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task6\u002B7Core\\Task2Core\\Task2Core\\Controllers\\CartItemsController.cs",
               "RelativeToolTip": "Task2Core\\Controllers\\CartItemsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAGIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T06:29:52.905Z",
               "EditorCaption": ""
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task3Core\\Task2Core\\Task2Core\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task6\u002B7Core\\Task2Core\\Task2Core\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Task2Core\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task3Core\\Task2Core\\Task2Core\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task6\u002B7Core\\Task2Core\\Task2Core\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Task2Core\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAAADMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T06:08:23.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T06:08:23.56Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CartQDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task3Core\\Task2Core\\Task2Core\\DTOfolder\\CartQDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task6\u002B7Core\\Task2Core\\Task2Core\\DTOfolder\\CartQDTO.cs",
               "RelativeDocumentMoniker": "Task2Core\\DTOfolder\\CartQDTO.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task3Core\\Task2Core\\Task2Core\\DTOfolder\\CartQDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task6\u002B7Core\\Task2Core\\Task2Core\\DTOfolder\\CartQDTO.cs",
               "RelativeToolTip": "Task2Core\\DTOfolder\\CartQDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:30:33.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T01:30:33.936Z"
             }
           ]
         }

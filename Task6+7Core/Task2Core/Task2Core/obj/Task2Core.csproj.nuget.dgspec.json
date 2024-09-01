@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task3Core\\Task2Core\\Task2Core\\Task2Core.csproj": {}
+    "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task6+7Core\\Task2Core\\Task2Core\\Task2Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task3Core\\Task2Core\\Task2Core\\Task2Core.csproj": {
+    "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task6+7Core\\Task2Core\\Task2Core\\Task2Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task3Core\\Task2Core\\Task2Core\\Task2Core.csproj",
+        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task6+7Core\\Task2Core\\Task2Core\\Task2Core.csproj",
         "projectName": "Task2Core",
-        "projectPath": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task3Core\\Task2Core\\Task2Core\\Task2Core.csproj",
+        "projectPath": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task6+7Core\\Task2Core\\Task2Core\\Task2Core.csproj",
         "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task3Core\\Task2Core\\Task2Core\\obj\\",
+        "outputPath": "C:\\Users\\Orange\\Desktop\\Core\\APICore\\Task6+7Core\\Task2Core\\Task2Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
